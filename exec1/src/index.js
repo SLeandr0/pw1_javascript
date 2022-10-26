@@ -28,3 +28,4 @@ function abastecePitagoras() {
     console.log(teoremaPitagoras(h, ca, co));
     document.getElementById("resultado").innerHTML=teoremaPitagoras(h, ca, co);
 }
+
